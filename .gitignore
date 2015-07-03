@@ -1,0 +1,14 @@
+/js/.module-cache/
+/node_modules/
+/.idea/
+/bower_components/
+/test/
+/tests/
+/lib/
+/dist/
+/build/
+/js/*.js
+/js-src/*.json
+.DS_Store
+/.sass-cache/
+/public/**/*.map
