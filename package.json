@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/madero/landing.weschool.com/issues"
   },
-  "homepage": "https://github.com/madero/landing.weschool.com"
+  "homepage": "https://github.com/madero/landing.weschool.com",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
 }
