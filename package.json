@@ -1,21 +1,16 @@
 {
   "name": "landing.weschool.com",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/madero/landing.weschool.com.git"
   },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/madero/landing.weschool.com/issues"
-  },
-  "homepage": "https://github.com/madero/landing.weschool.com",
+  "author": "Oilproject",
+  "homepage": "http://www.weschool.com",
   "dependencies": {
     "grunt": "^0.4.5"
   }
